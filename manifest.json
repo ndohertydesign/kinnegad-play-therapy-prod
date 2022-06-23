@@ -1,0 +1,15 @@
+{
+  "short_name": "Kinnegad Play Therapy",
+  "name": "Kinnegad Play Therapy Website",
+  "icons": [
+    {
+      "src": "kpt.png",
+      "sizes": "100x101",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
