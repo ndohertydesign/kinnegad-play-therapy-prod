@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0081e0f1.css",
+    "main.js": "/static/js/main.9ba74f34.js",
+    "static/js/787.9ef37b1a.chunk.js": "/static/js/787.9ef37b1a.chunk.js",
+    "static/media/Comfortaa-VariableFont_wght.ttf": "/static/media/Comfortaa-VariableFont_wght.42599e57da15daf79164.ttf",
+    "index.html": "/index.html",
+    "main.0081e0f1.css.map": "/static/css/main.0081e0f1.css.map",
+    "main.9ba74f34.js.map": "/static/js/main.9ba74f34.js.map",
+    "787.9ef37b1a.chunk.js.map": "/static/js/787.9ef37b1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0081e0f1.css",
+    "static/js/main.9ba74f34.js"
+  ]
+}
