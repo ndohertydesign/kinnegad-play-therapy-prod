@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.ddae0577.css",
-    "main.js": "/static/js/main.1b59a66b.js",
+    "main.js": "/static/js/main.f187850e.js",
     "static/js/787.9ef37b1a.chunk.js": "/static/js/787.9ef37b1a.chunk.js",
+    "static/media/welcome-image.png": "/static/media/welcome-image.3d89c92fa448d79ce9f4.png",
+    "static/media/eleanor-glennon.jpeg": "/static/media/eleanor-glennon.55a8b8c8d41958423462.jpeg",
     "static/media/Comfortaa-VariableFont_wght.ttf": "/static/media/Comfortaa-VariableFont_wght.42599e57da15daf79164.ttf",
     "index.html": "/index.html",
     "main.ddae0577.css.map": "/static/css/main.ddae0577.css.map",
-    "main.1b59a66b.js.map": "/static/js/main.1b59a66b.js.map",
+    "main.f187850e.js.map": "/static/js/main.f187850e.js.map",
     "787.9ef37b1a.chunk.js.map": "/static/js/787.9ef37b1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddae0577.css",
-    "static/js/main.1b59a66b.js"
+    "static/js/main.f187850e.js"
   ]
 }
